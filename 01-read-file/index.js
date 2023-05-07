@@ -1,4 +1,3 @@
-const path = require('path');
 const fs = require('fs');
 
 const readFile = fs.createReadStream('./01-read-file/text.txt', 'utf-8');
